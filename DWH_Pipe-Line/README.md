@@ -24,8 +24,5 @@ Dieses Projekt zeigt eine End-to-End Machine Learning Pipeline für die Rolle Da
 pip install -r requirements.txt
 ```
 
-## Ausführung
-
-Die Hauptlogik ist in `pipeline_demo.py` (nicht enthalten in diesem Export). Für Reproduktion siehe Notebooks oder eigene Skripte.
 
 
