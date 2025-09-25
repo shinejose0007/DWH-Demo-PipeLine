@@ -1,6 +1,6 @@
 # Data Science Demo Pipeline
 
-Dieses Projekt zeigt eine End-to-End Machine Learning Pipeline für die Rolle Data Scientist (ML & Advanced Analytics).
+Dieses Projekt zeigt eine End-to-End Machine Learning Pipeline für die Data Scientist (ML & Advanced Analytics).
 
 ## Inhalt
 
