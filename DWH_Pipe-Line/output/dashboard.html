@@ -1,0 +1,26 @@
+
+<html>
+<head><title>Mini Dashboard - Throughput Forecast Demo</title></head>
+<body>
+<h2>Mini Dashboard: Throughput Forecast Demo</h2>
+<p>Kurzbeschreibung: Dieses Demo zeigt einen End-to-End-Flow: DWH-Extraktion → ETL → Feature-Engineering → Modelltraining → Backtesting → Deployment-Artefakte.</p>
+<h3>Evaluation</h3>
+<ul>
+<li>MAE: 13.01</li>
+<li>RMSE: 16.27</li>
+<li>Anzahl Vorhersagen (walk-forward): 84</li>
+</ul>
+<h3>Plots</h3>
+<p>Actual vs Predicted (sample)</p>
+<img src="plots/actual_vs_pred.png" width="800"/>
+<p>Feature Importances</p>
+<img src="plots/feature_importance.png" width="600"/>
+<h3>Artifacts</h3>
+<ul>
+<li>Processed data: <a href="processed_data.csv">processed_data.csv</a></li>
+<li>Saved model: <a href="model.joblib">model.joblib</a></li>
+<li>Predictions: <a href="predictions.csv">predictions.csv</a></li>
+</ul>
+<p>Hinweis: Diese Dateien sind im gleichen Verzeichnis abgelegt und können für Tests und Deployment von Data Engineers verwendet werden.</p>
+</body>
+</html>
