@@ -28,6 +28,4 @@ pip install -r requirements.txt
 
 Die Hauptlogik ist in `pipeline_demo.py` (nicht enthalten in diesem Export). Für Reproduktion siehe Notebooks oder eigene Skripte.
 
-## Kontakt
 
-Erstellt von Shine Jose als Bewerbungs-Demo für Data Scientist Rollen.
