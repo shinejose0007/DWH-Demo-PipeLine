@@ -30,4 +30,4 @@ Die Hauptlogik ist in `pipeline_demo.py` (nicht enthalten in diesem Export). Fü
 
 ## Kontakt
 
-Erstellt von Shine Jose als Bewerbungs-Demo für Data Scientist Rollen.
+//Erstellt von Shine Jose als Bewerbungs-Demo für Data Scientist Rollen.
